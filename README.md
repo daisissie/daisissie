@@ -1,4 +1,5 @@
 ## Hi there 👋
+I’m a designer passionate about the intersection of spatial thinking, computation, and technology.
 
 <!--
 **daisissie/daisissie** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
