@@ -1,9 +1,9 @@
 ## Hi there 👋
 I’m a designer passionate about the intersection of spatial thinking, computation, technology, and architecture.
 
-- 🔭 I’m currently working on: architetcure, BIM workflow, projects that turn data into spatial experiences, from interactive maps to generative models.  
-- 🌱 I’m currently learning: full-stack web development and how to better integrate AI into design workflows.  
-- 👯 I’m looking to collaborate on: creative coding, computational design tools, and data-driven spatial projects.  
+- 🔭 I’m currently working on: spatial intelligence platforms, architetcure, BIM workflow, projects that turn data into spatial experiences, from interactive maps to generative models.  
+- 🌱 I’m currently learning: full-stack web development and how to better integrate AI into design workflows, scalable system architecture, world model research.  
+- 👯 I’m looking to collaborate on: LLM + GIS pipelines, creative coding, computational design tools, and data-driven spatial storytelling.  
 - 💬 Ask me about: computational design, architectural workflows, or mapping data into new forms of storytelling.  
 - 📫 How to reach me: [dai.yuxi1112@gmail.com](mailto:dai.yuxi1112@gmail.com)  
 - 😄 Pronouns: she/her  
